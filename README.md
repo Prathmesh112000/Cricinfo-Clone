@@ -1,4 +1,4 @@
-# GoogleTasks-App
+# Crickinfo
 Crickinfo is one stop sollution for cricket fans where usere get updte for all the tournamnets with detailed predictions. 
 
 # App
